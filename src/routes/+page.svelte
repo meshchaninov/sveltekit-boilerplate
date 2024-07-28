@@ -6,7 +6,8 @@
 		{ title: 'SvelteKit (Svelte 5!)', url: 'https://kit.svelte.dev/docs/introduction' },
 		{ title: 'Tailwind CSS', url: 'https://tailwindcss.com/docs/' },
 		{ title: 'DasyUI', url: 'https://daisyui.com/docs/' },
-		{ title: 'Lucide', url: 'https://lucide.dev/icons/' }
+		{ title: 'Lucide', url: 'https://lucide.dev/icons/' },
+		{ title: 'Supabase', url: 'https://supabase.com/docs' }
 	];
 
 	let rotation = $state(0);

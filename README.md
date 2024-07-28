@@ -1,5 +1,9 @@
 # SvelteKit Boilerplate
 
+## Initial setup
+
+- Need setup Supabase env variables in `.env` file (see `.env.example`).
+
 ## How to develop:
 
 ```bash
