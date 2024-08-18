@@ -17,3 +17,6 @@ npm run dev -- --open
 npm i
 npm run build
 ```
+
+## To disable supabase
+- delete `src/hooks.server.ts`. `src/+layout.server.ts`
